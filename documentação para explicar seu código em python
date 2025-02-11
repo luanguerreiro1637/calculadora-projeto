@@ -1,0 +1,11 @@
+## Como executar o código Python
+
+1. Certifique-se de que o Python esteja instalado:
+   ```bash
+   python --version
+
+2. Instale as dependências de permissão (se houver um arquivo requirements.txt):
+pip install -r requirements.txt
+
+3. Para executar o código Python:
+python meu_script.py
